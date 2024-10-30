@@ -1,0 +1,1 @@
+//model cho bảng email
